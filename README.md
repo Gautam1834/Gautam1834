@@ -46,7 +46,7 @@
 <details>
   <summary>Activity Metrics</summary>
   <br/>
-<p align="left"> <a href="https://github.com/Gautam1834"><img src="https://metrics.lecoq.io/Gautam1834?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta" alt="Gautam1834" /></a> </p>
+<p align="left"> <a href="https://github.com/Gautam1834"> <img src="https://metrics.lecoq.io/Gautam1834?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&activity=1&achievements=1&discussions=1&introduction=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&followup.archived=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets" alt="Gautam1834" /></a> </p>
 
 </details>
 
